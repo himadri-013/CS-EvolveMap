@@ -8,6 +8,7 @@
 
 CS EvolveMap allows users to explore how key research topics in various CS fields have changed over the years. It does this by clustering research abstracts from ArXiv and then linking these clusters over time based on semantic similarity.
 
+Try the app here : https://cs-evolvemap-khetxmjnpf8xikenzfs7gs.streamlit.app/
 ---
 
 ## ⚙️ How It Works
