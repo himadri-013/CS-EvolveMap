@@ -71,8 +71,8 @@ Try the app here : https://cs-evolvemap-khetxmjnpf8xikenzfs7gs.streamlit.app/
 ## 📁 File Structure
 
 ├── app.py # Main Streamlit frontend
-├── app_utils.py # UI logic, visualizations, pipeline runner
-├── preprocess.py # Text cleaning and stopword removal
-├── cluster_semantics.py # Cluster vector computation and keyword extraction
-├── semantic_linking.py # Inter-year topic linking via cosine similarity
-├── requirements.txt # Project dependencies
+<br>├── app_utils.py # UI logic, visualizations, pipeline runner
+<br>├── preprocess.py # Text cleaning and stopword removal
+<br>├── cluster_semantics.py # Cluster vector computation and keyword extraction
+<br>├── semantic_linking.py # Inter-year topic linking via cosine similarity
+<br>├── requirements.txt # Project dependencies
